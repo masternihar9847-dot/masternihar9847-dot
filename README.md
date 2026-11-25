@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**masternihar9847-dot/masternihar9847-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Nihar Dudhabaware 👋
 
-Here are some ideas to get you started:
+### AI Enthusiast | Vibe Coder | Web Development Explorer 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm Nihar, a technology enthusiast interested in Artificial Intelligence, Generative AI, vibe coding and building creative digital projects.
+
+I enjoy exploring AI-powered tools and turning ideas into digital experiences.
+
+---
+
+## 🧠 About Me
+
+- 🤖 Interested in Artificial Intelligence and Generative AI
+- 💻 Exploring Web Development
+- ⚡ Interested in Vibe Coding
+- 🚀 Building and experimenting with digital projects
+- 📚 Always learning something new
+
+## 🏆 Certifications
+
+**IBM – Introduction to Generative AI**
+
+Issuing Organization: IBM
+
+## 🛠️ Areas of Interest
+
+- Artificial Intelligence
+- Generative AI
+- Vibe Coding
+- AI-Assisted Development
+- Website Design
+- Technology Innovation
+
+## 🚀 My Projects
+
+- MultiGames
+- Nihar Gaming Zone
+- Messaging App
+
+## 🎯 My Mission
+
+Learn, experiment, build and innovate with technology.
+
+---
+
+### Thanks for visiting my profile! ⭐
