@@ -24,6 +24,17 @@
 - 🧠 Learning about Generative AI
 - 🚀 Building creative digital projects
 - 🎯 Always exploring new technology
+- 
+## ⚡ TECHNOLOGY & INTERESTS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vibe_Coding-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web_Development-1572B6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Tools-FF6F00?style=for-the-badge"/>
+</p>
+
 
 ---
 
