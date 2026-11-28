@@ -70,6 +70,20 @@
 
 ---
 
+## 📈 CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/8B5CF6/masternihar9847-dot" alt="Nihar's GitHub Contribution Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/masternihar9847-dot">
+    View my GitHub contribution history
+  </a>
+</p>
+
+---
+
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
