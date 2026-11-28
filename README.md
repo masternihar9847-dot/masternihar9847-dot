@@ -19,11 +19,19 @@ I enjoy exploring AI-powered tools and turning ideas into digital experiences.
 - 🚀 Building and experimenting with digital projects
 - 📚 Always learning something new
 
+
 ## 🏆 Certifications
 
-**IBM – Introduction to Generative AI**
+### IBM – Coursera
 
-Issuing Organization: IBM
+**Generative AI Essentials: From Fundamentals to Real-World Applications**
+
+- Issued: June 24, 2026
+- Authorized by: IBM
+- Platform: Coursera
+
+🔗 [Verify My Certificate](https://coursera.org/verify/GVHZHM9VG6X8)
+
 
 ## 🛠️ Areas of Interest
 
