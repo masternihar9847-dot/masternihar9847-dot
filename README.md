@@ -1,57 +1,72 @@
 
-# Hey, I'm Nihar Dudhabaware 👋
+<div align="center">
 
-### AI Enthusiast | Vibe Coder | Web Development Explorer 🚀
+# ⚡ NIHAR DUDHABAWARE
 
-Welcome to my GitHub profile!
+### AI ENTHUSIAST • VIBE CODER • TECH EXPLORER
 
-I'm Nihar, a technology enthusiast interested in Artificial Intelligence, Generative AI, vibe coding and building creative digital projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Exploring+Artificial+Intelligence;Building+with+AI+Tools;Turning+Ideas+Into+Digital+Projects" />
 
-I enjoy exploring AI-powered tools and turning ideas into digital experiences.
+<br/>
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/masternihar9847-dot)
+[![IBM](https://img.shields.io/badge/IBM-Certified-1261FE?style=for-the-badge&logo=ibm)](https://coursera.org/verify/GVHZHM9VG6X8)
 
-## 🧠 About Me
-
-- 🤖 Interested in Artificial Intelligence and Generative AI
-- 💻 Exploring Web Development
-- ⚡ Interested in Vibe Coding
-- 🚀 Building and experimenting with digital projects
-- 📚 Always learning something new
-
-
-## 🏆 Certifications
-
-### IBM – Coursera
-
-**Generative AI Essentials: From Fundamentals to Real-World Applications**
-
-- Issued: June 24, 2026
-- Authorized by: IBM
-- Platform: Coursera
-
-🔗 [Verify My Certificate](https://coursera.org/verify/GVHZHM9VG6X8)
-
-
-## 🛠️ Areas of Interest
-
-- Artificial Intelligence
-- Generative AI
-- Vibe Coding
-- AI-Assisted Development
-- Website Design
-- Technology Innovation
-
-## 🚀 My Projects
-
-- MultiGames
-- Nihar Gaming Zone
-- Messaging App
-
-## 🎯 My Mission
-
-Learn, experiment, build and innovate with technology.
+</div>
 
 ---
 
-### Thanks for visiting my profile! ⭐
+## 👨‍💻 ABOUT ME
+
+- 🤖 Interested in Artificial Intelligence
+- ⚡ Exploring Vibe Coding
+- 🌐 Exploring AI-assisted Web Development
+- 🧠 Learning about Generative AI
+- 🚀 Building creative digital projects
+- 🎯 Always exploring new technology
+
+---
+
+## 🏆 CERTIFICATION
+
+**IBM — Generative AI Essentials: From Fundamentals to Real-World Applications**
+
+📅 June 24, 2026
+
+[🔗 Verify IBM Certificate](https://coursera.org/verify/GVHZHM9VG6X8)
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+| Project | Description |
+|---|---|
+| 🎮 MultiGames | Gaming portal |
+| 🎯 Nihar Gaming Zone | Gaming project |
+| 💬 Messaging App | Messaging application |
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=masternihar9847-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="95%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masternihar9847-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="95%"/>
+
+<img src="https://streak-stats.demolab.com?user=masternihar9847-dot&theme=tokyonight&hide_border=true&background=0D1117" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ THINK • CREATE • INNOVATE
+
+*Learning today. Building tomorrow.*
+
+**Thanks for visiting my profile!**
+
+</div>
