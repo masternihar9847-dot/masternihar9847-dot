@@ -4,7 +4,12 @@
 <div align="center">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=masternihar9847-dot&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+</p> 
+  <h2 align="center">📊 Contribution Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masternihar9847-dot&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
 # ⚡ NIHAR DUDHABAWARE
 
 ### AI ENTHUSIAST • VIBE CODER • TECH EXPLORER
