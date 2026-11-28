@@ -2,7 +2,9 @@
   <img src="banner.png" width="100%" alt="Nihar Dudhabaware Banner">
 </div>
 <div align="center">
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=masternihar9847-dot&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 # ⚡ NIHAR DUDHABAWARE
 
 ### AI ENTHUSIAST • VIBE CODER • TECH EXPLORER
