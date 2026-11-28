@@ -50,11 +50,15 @@
 
 ## 🚀 FEATURED PROJECTS
 
-| Project | Description |
-|---|---|
-| 🎮 MultiGames | Gaming portal |
-| 🎯 Nihar Gaming Zone | Gaming project |
-| 💬 Messaging App | Messaging application |
+🚀 Featured Projects
+
+Project| Description
+"🎮 MultiGames" (https://multigames-rho.vercel.app)| A collection of online games
+"🌐 Nihar Gaming Zone" (https://nihar-gaming-zone.vercel.app)| Gaming website
+"💬 Messaging App" (https://nihar-msg.vercel.app)| Messaging app project
+"🍽️ Restaurant Website" (https://restaurent-neon.vercel.app)| Fictional restaurant website demo
+
+---
 
 ---
 
